@@ -72,7 +72,7 @@ for i in range (n):
 
 
 
-# number 6
+# number 6 (Finding the maximum number of 3 numbers)
 
 
 def maximum (a,b,c):
@@ -139,7 +139,7 @@ else :
 
 
 
-#number 9
+#number 9(numbers from 0 to 6 without 3 and 6)
 for x in  range(6):
     if (x==3 or x==6):
         continue
